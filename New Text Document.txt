@@ -1,3 +1,8 @@
 hi 
+<<<<<<< HEAD
 how akanksha are u
 
+=======
+how are u, Hello i Akanksha completing git clone data jkjkjkjkj
+Hello
+>>>>>>> 9d0b65ec68cf1335544e95b355a76941d03c9928
